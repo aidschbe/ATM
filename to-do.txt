@@ -1,0 +1,6 @@
+
+potenzielle eingabefehler abfangen!!
+
+lange methoden normalisieren? (usermenu? :x)
+
+frage an moritz: warum nicht gleich user-klasse erstellen -> hashmap sparen?
